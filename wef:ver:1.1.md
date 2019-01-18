@@ -15,4 +15,5 @@ git checkout: það er til að kíkja og skoða directorys og gömul comits
 git branch: þú getur notað til að búa til nýan user
 
 4.
-Version Control: er þannig að þú getur séð fyrri útgáfur að verkefninu þínu og farið afftur í það.
+Version Control: er þannig að þú getur séð fyrri útgáfur að verkefninu þínu og farið afftur í það. Svo á ég líka að breyta svarinu við þessari spurningu.....
+Git er nokkuð sniðugt
