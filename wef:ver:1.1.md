@@ -16,3 +16,6 @@ git branch: þú getur notað til að búa til nýan user
 
 4.
 Version Control: er þannig að þú getur séð fyrri útgáfur að verkefninu þínu og farið afftur í það.
+
+5.
+helstu kostir GIT er að það heldur öllum gögunum þínum fyrir frítt og líka fyrri útgáfur þeirra. það getur verið gott eða vont en allir geta séð það sem þú setur á gittið.
