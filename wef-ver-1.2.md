@@ -8,3 +8,8 @@ mkdir: er til að búa til direktory.:
 git clone: notað til að copy directory og fá "clone"
 git status: þú getur séð hvort commitin eru adduð
 git diff: getur sínt munin á milli commits
+
+3.
+git log: það er history of comits
+git checkout: það er til að kíkja og skoða directorys og gömul comits
+git branch: þú getur notað til að búa til nýan user
