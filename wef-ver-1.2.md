@@ -13,3 +13,6 @@ git diff: getur sínt munin á milli commits
 git log: það er history of comits
 git checkout: það er til að kíkja og skoða directorys og gömul comits
 git branch: þú getur notað til að búa til nýan user
+
+4.
+Version Control: er þannig að þú getur séð fyrri útgáfur að verkefninu þínu og farið afftur í það.
